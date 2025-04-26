@@ -1,7 +1,7 @@
 ## Nguyen (Noah) Hong Anh Khoa 👋
 
 <p align="center">
-  <img src="[Optional: Link to a banner image, e.g., a cool tech background or personal logo]" width="800" alt="Banner">
+  <img src="https://assets.grok.com/users/34d0eb92-01e4-4a6e-aa91-aeee962586f1/generated/cdAEHih5Ysnw1XuL/image.jpg" width="800" alt="Banner">
 </p>
 
 I'm a passionate technologist deeply interested in the intersection of data, security, and software. My goal is to build intelligent, secure, and robust applications that solve real-world problems. I thrive on learning new technologies and tackling complex challenges across the entire development lifecycle.
