@@ -28,18 +28,57 @@ I am attending University of Calgary. I like to build innovative and creative st
 * **Tools:** Jupyter Notebooks/Lab, MLflow, [Maybe Kubeflow, DVC, etc.]
 * **Concepts:** Statistical Modeling, Feature Engineering, Model Evaluation & Selection, Deep Learning (CNNs, RNNs, Transformers), NLP, Computer Vision, Time Series Analysis
 
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-plain-wordmark.svg" width="40"/>
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="40"/>
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original-wordmark.svg" width="40"/>
+          
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original-wordmark.svg" width="40"/>
+          
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original-wordmark.svg" width="40"/>
+          
+                    
+
 
 **Web Development (Full-Stack):**
 * **Frontend:** React, HTML5, CSS3, Next.js, Tailwind
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40"/>
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40"/>
+          
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40"/>
+          
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="40"/>
+           
+</p>
+
+**Backend:** 
+
+<p align="center">
+ 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="40"/>
+          
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" width="40"/>
+          
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="40"/>
+          
           
 </p>
-* **Backend:** Node.js (Express), Python (Flask, Django)
-* **APIs:** RESTful APIs
+
 
 **Databases:**
-* **SQL:** PostgreSQL, MySQL, SQLite, 
+<p align="center">
+  
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="40"/>
+    
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" width="40" />
+          
+          
+</p> 
 
 ---
 
