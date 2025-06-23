@@ -10,8 +10,9 @@ I am attending University of Calgary. I like to build innovative and creative st
 ## 🔧 My Tech Stack
 
 Here's a snapshot of the tools and technologies I frequently work with:
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
+<div class="python" >
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
+</div>
 
 **Languages:**
 * Python
