@@ -10,7 +10,7 @@ I am attending University of Calgary. I like to build innovative and creative st
 ## 🔧 My Tech Stack
 
 **Languages:**
-<p align="center" >
+<p align="left" >
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="80"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="80"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" width="80"/>
@@ -25,7 +25,7 @@ I am attending University of Calgary. I like to build innovative and creative st
 
 **Data Science & Machine Learning:**
 
-<p align="center">
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg" width="100" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-plain-wordmark.svg" width="100"/>
   
@@ -41,8 +41,8 @@ I am attending University of Calgary. I like to build innovative and creative st
 
 
 **Web Development (Full-Stack):**
-* **Frontend:** React, HTML5, CSS3, Next.js, Tailwind
-<p align="center">
+
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="80"/>
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="80"/>
@@ -55,7 +55,7 @@ I am attending University of Calgary. I like to build innovative and creative st
 
 **Backend:** 
 
-<p align="center">
+<p align="left">
  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="80"/>
           
@@ -68,7 +68,7 @@ I am attending University of Calgary. I like to build innovative and creative st
 
 
 **Databases:**
-<p align="center">
+<p align="left">
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="80"/>
     
