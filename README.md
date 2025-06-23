@@ -11,7 +11,7 @@ I am attending University of Calgary. I like to build innovative and creative st
 
 Here's a snapshot of the tools and technologies I frequently work with:
 
-https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
 
 **Languages:**
 * Python
