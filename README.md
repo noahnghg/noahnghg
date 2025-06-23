@@ -24,9 +24,6 @@ I am attending University of Calgary. I like to build innovative and creative st
 
 
 **Data Science & Machine Learning:**
-* **Libraries:** Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch, Keras, Matplotlib, Seaborn, Plotly
-* **Tools:** Jupyter Notebooks/Lab, MLflow, [Maybe Kubeflow, DVC, etc.]
-* **Concepts:** Statistical Modeling, Feature Engineering, Model Evaluation & Selection, Deep Learning (CNNs, RNNs, Transformers), NLP, Computer Vision, Time Series Analysis
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg" width="40" />
@@ -60,11 +57,11 @@ I am attending University of Calgary. I like to build innovative and creative st
 
 <p align="center">
  
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="40"/>
           
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" width="40"/>
           
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="40"/>
           
           
 </p>
@@ -73,9 +70,9 @@ I am attending University of Calgary. I like to build innovative and creative st
 **Databases:**
 <p align="center">
   
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="40"/>
     
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" width="40" />
           
           
 </p> 
