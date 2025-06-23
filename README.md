@@ -10,18 +10,22 @@ I am attending University of Calgary. I like to build innovative and creative st
 ## 🔧 My Tech Stack
 
 Here's a snapshot of the tools and technologies I frequently work with:
-<p align="center" >
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" alt="SQL" width="40"/>
-  
-</p>
-
 **Languages:**
 * Python
 * JavaScript / TypeScript
 * SQL
+<p align="center" >
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" width="40"/>
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40"/>
+          
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" alt="SQL" width="40"/>
+  
+</p>
+
+
 
 **Data Science & Machine Learning:**
 * **Libraries:** Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch, Keras, Matplotlib, Seaborn, Plotly
@@ -30,6 +34,10 @@ Here's a snapshot of the tools and technologies I frequently work with:
 
 **Web Development (Full-Stack):**
 * **Frontend:** React, HTML5, CSS3, Next.js, Tailwind
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40"/>
+          
+</p>
 * **Backend:** Node.js (Express), Python (Flask, Django)
 * **APIs:** RESTful APIs
 
