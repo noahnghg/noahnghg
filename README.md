@@ -1,7 +1,7 @@
 ## Nguyen (Noah) Hong Anh Khoa 👋
 
 <p align="center">
-  <img src="https://assets.grok.com/users/34d0eb92-01e4-4a6e-aa91-aeee962586f1/generated/cdAEHih5Ysnw1XuL/image.jpg" width="800" alt="Banner">
+  <img src="/Users/noahnghg/Downloads/vecteezy_abstract-hexagon-pattern-vector-background_11020211.svg" width="800" alt="Banner">
 </p>
 
 I am attending University of Calgary. I like to build innovative and creative stuff. My areas of interest is full-stack software development, machine learning (Computer Vision). 
