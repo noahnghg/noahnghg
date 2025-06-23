@@ -4,21 +4,14 @@
   <img src="https://assets.grok.com/users/34d0eb92-01e4-4a6e-aa91-aeee962586f1/generated/cdAEHih5Ysnw1XuL/image.jpg" width="800" alt="Banner">
 </p>
 
-I am attending University of Calgary. I like to build innovative and creative stuff. My areas of interest is full-stack software development, machine learning and quantum computing. 
+I am attending University of Calgary. I like to build innovative and creative stuff. My areas of interest is full-stack software development, machine learning (Computer Vision). 
 
----
-
-## 🚀 About Me
-
-* 💻 **"Full-Stack" Data Science:** I enjoy the entire data pipeline, from collecting and cleaning data to building predictive models, deploying them as APIs, and visualizing insights through interactive dashboards.
-* 🧠 **Machine Learning :** Fascinated by the power of AI, I love exploring various ML algorithms (from classic models to deep learning) and applying them to diverse datasets. MLOps and responsible AI are areas of growing interest for me.
-* 🛠️ **Software Engineer:** I like building innovative and creative tools, I want to build something that no one has ever created one day.
-
----
 
 ## 🔧 My Tech Stack
 
 Here's a snapshot of the tools and technologies I frequently work with:
+
+https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg
 
 **Languages:**
 * Python
