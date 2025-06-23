@@ -9,11 +9,7 @@ I am attending University of Calgary. I like to build innovative and creative st
 
 ## 🔧 My Tech Stack
 
-Here's a snapshot of the tools and technologies I frequently work with:
 **Languages:**
-* Python
-* JavaScript / TypeScript
-* SQL
 <p align="center" >
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"/>
@@ -31,6 +27,7 @@ Here's a snapshot of the tools and technologies I frequently work with:
 * **Libraries:** Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch, Keras, Matplotlib, Seaborn, Plotly
 * **Tools:** Jupyter Notebooks/Lab, MLflow, [Maybe Kubeflow, DVC, etc.]
 * **Concepts:** Statistical Modeling, Feature Engineering, Model Evaluation & Selection, Deep Learning (CNNs, RNNs, Transformers), NLP, Computer Vision, Time Series Analysis
+
 
 **Web Development (Full-Stack):**
 * **Frontend:** React, HTML5, CSS3, Next.js, Tailwind
