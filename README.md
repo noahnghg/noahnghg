@@ -3,7 +3,7 @@
 <p align="center">
   <img src="/Users/noahnghg/Downloads/vecteezy_abstract-hexagon-pattern-vector-background_11020211.svg" width="800" alt="Banner">
 </p>
-
+Check this out: https://noahnghg-portfolio.vercel.app
 I am attending University of Calgary. I like to build innovative and creative stuff. My areas of interest is full-stack software development, machine learning (Computer Vision). 
 
 
