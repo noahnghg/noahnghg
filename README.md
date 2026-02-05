@@ -13,7 +13,7 @@
 ---
 
 ### 👨‍💻 About Me
-I am a Computer Science student at the **University of Calgary** with a focus on **Backend Development**. I enjoy architecting scalable systems and exploring the intersection of **Distributed Systems**, **Machine Learning**, and **AI Engineering**.
+I am a Computer Science student at the **University of Calgary**, with a strong focus on **Backend and Database Development**. I am actively exploring scalable systems and the intersection of **Distributed Systems**, **Machine Learning**, and **AI Engineering**.
 
 ---
 
@@ -21,24 +21,25 @@ I am a Computer Science student at the **University of Calgary** with a focus on
 
 #### 💻 Languages & Core
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-#### ⚙️ Backend & Infrastructure
+#### ⚙️ Backend and Database
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Django](https://img.shields.io/badge/django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-#### 🤖 Data Science & ML
+#### 🤖 Scientific Computing & ML
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
 #### 🎨 Frontend
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -49,9 +50,9 @@ I am a Computer Science student at the **University of Calgary** with a focus on
 ---
 
 ### 🌱 Current Focus
-* 🔭 **Researching:** Optimizing inference in Machine Learning models.
-* 🛠️ **Building:** Scalable backend architectures for daily productivity tools.
-* 📚 **Learning:** Advanced Cloud Infrastructure (AWS) and Distributed Databases.
+* 🔭 **Exploring:** Classical machine learning, modern deep learning, and Go-based microservices.
+* 🛠️ **Building:** A scalable fintech platform utilizing Java, Python, and Golang.
+* 📚 **Learning:** Advanced Cloud Infrastructure and preparing for the AWS Solutions Architect Associate (SAA).
 
 ---
 
