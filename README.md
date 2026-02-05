@@ -1,111 +1,60 @@
-## Nguyen (Noah) Hong Anh Khoa 👋
+# ## Nguyen (Noah) Hong Anh Khoa 👋
 
 <p align="center">
-  <img src="/Users/noahnghg/Downloads/vecteezy_abstract-hexagon-pattern-vector-background_11020211.svg" width="800" alt="Banner">
-</p>
-Check this out: https://noahnghg-portfolio.vercel.app
-I am attending University of Calgary. I like to build innovative and creative stuff. My areas of interest is full-stack software development, machine learning (Computer Vision). 
-
-
-## 🔧 My Tech Stack
-
-**Languages:**
-<p align="left" >
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" width="60"/>
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="60"/>
-          
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" alt="SQL" width="60"/>
-  
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Noah%20Khoa&fontSize=90" width="100%" alt="Banner">
 </p>
 
-
-
-**Data Science & Machine Learning:**
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg" width="80" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-plain-wordmark.svg" width="80"/>
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="80"/>
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original-wordmark.svg" width="80"/>
-          
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original-wordmark.svg" width="80"/>
-          
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original-wordmark.svg" width="80"/>
-          
-                    
-
-
-**Frontend:**
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="60"/>
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="60"/>
-          
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="60"/>
-          
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="60"/>
-           
+<p align="center">
+  <a href="https://noahnghg-portfolio.vercel.app"><b>Portfolio Website</b></a> • 
+  <a href="https://www.linkedin.com/in/noahnghg/"><b>LinkedIn</b></a> • 
+  <a href="mailto:noahnghgwork@gmail.com"><b>Email</b></a>
 </p>
-
-**Backend:** 
-
-<p align="left">
- 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="60"/>
-          
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" width="60"/>
-          
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="60"/>
-          
-          
-</p>
-
-
-**Databases:**
-<p align="left">
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="60"/>
-    
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" width="60" />
-          
-          
-</p> 
 
 ---
 
-## 🌱 What I'm Currently Exploring
-
-I'm on my adventure to learn and research deeper into machine learning and apply my skillsets to build softwares that help me in my daily life.
-
----
+### 👨‍💻 About Me
+I am a Computer Science student at the **University of Calgary** with a focus on **Backend Development**. I enjoy architecting scalable systems and exploring the intersection of **Distributed Systems**, **Machine Learning**, and **AI Engineering**.
 
 ---
 
-## 📫 How to Reach Me
+### 🔧 Tech Stack
 
-* **LinkedIn:** https://www.linkedin.com/in/noahnghg/
-* **Email:** noahnghgwork@gmail.com
+#### 💻 Languages & Core
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+#### ⚙️ Backend & Infrastructure
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Django](https://img.shields.io/badge/django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+#### 🤖 Data Science & ML
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+#### 🎨 Frontend
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
 
+### 🌱 Current Focus
+* 🔭 **Researching:** Optimizing inference in Machine Learning models.
+* 🛠️ **Building:** Scalable backend architectures for daily productivity tools.
+* 📚 **Learning:** Advanced Cloud Infrastructure (AWS) and Distributed Databases.
 
-<!--
-**noahnghg/noahnghg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Let's Connect
+* **LinkedIn:** [linkedin.com/in/noahnghg](https://www.linkedin.com/in/noahnghg/)
+* **Email:** [noahnghgwork@gmail.com](mailto:noahnghgwork@gmail.com)
