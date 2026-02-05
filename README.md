@@ -1,7 +1,7 @@
 # ## Nguyen (Noah) Hong Anh Khoa 👋
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Noah%20Khoa&fontSize=90" width="100%" alt="Banner">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3670A0&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Noah+Khoa;Backend+Developer;CS+@+UofCalgary;ML+Enthusiast" alt="Typing SVG" />
 </p>
 
 <p align="center">
