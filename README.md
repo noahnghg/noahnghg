@@ -1,4 +1,4 @@
-# ## Nguyen (Noah) Hong Anh Khoa 👋
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3670A0&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Noah+Khoa;Backend+Developer;CS+@+UofCalgary;ML+Enthusiast" alt="Typing SVG" />
