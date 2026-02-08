@@ -43,7 +43,6 @@ I am a Computer Science student at the **University of Calgary**, with a strong 
 
 #### 🎨 Frontend
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -52,7 +51,7 @@ I am a Computer Science student at the **University of Calgary**, with a strong 
 
 ### 🌱 Current Focus
 * 🔭 **Exploring:** Classical machine learning, modern deep learning, and Go-based microservices.
-* 🛠️ **Building:** A scalable fintech platform utilizing Java, Python, and Golang.
+* 🛠️ **Building:** A scalable wealth-tech platform utilizing Java, Python, and Golang. (WiseXpense)
 * 📚 **Learning:** Advanced Cloud Infrastructure and preparing for the AWS Solutions Architect Associate (SAA).
 
 ---
