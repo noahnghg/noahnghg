@@ -13,7 +13,7 @@
 ---
 
 ### 👨‍💻 About Me
-I am a Computer Science student at the **University of Calgary**, with a strong focus on **Backend and Database Development**. I am actively exploring scalable systems and the intersection of **Distributed Systems**, **Machine Learning**, and **AI Engineering**.
+I am a Computer Science student at the **University of Calgary**, with a strong focus on **Backend and Database Development**. I am actively exploring scalable systems and the intersection of **Distributed Systems**, **Machine Learning**, and **AI Engineering**. I am particularly drawn to **FinTech**, I am also exploring various fields from algorithmic trading, expense tracking, credit scoring, etc.
 
 ---
 
