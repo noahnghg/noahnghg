@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://noahnghg-portfolio.vercel.app"><b>Portfolio Website</b></a> • 
+  <a href="https://noahnghg-portfolio.vercel.app"><b>Portfolio</b></a> • 
   <a href="https://www.linkedin.com/in/noahnghg/"><b>LinkedIn</b></a> • 
   <a href="mailto:noahnghgwork@gmail.com"><b>Email</b></a>
 </p>
